@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LitersToGallons</string>
+    <string name="liter_value">Liter value</string>
+    <string name="round_up_result">Round up the result?</string>
+    <string name="calculate">Calculate</string>
+    <string name="choose_the_gallon_definition">Choose the gallon definition:</string>
+    <string name="american_3_785_ltr">American (3.78541 ltr)</string>
+    <string name="english_4_546_ltr">English (4.546 ltr)</string>
+    <string name="argentinian_3_80_ltr">Argentinian (3.80 ltr)</string>
+    <string name="value_result">Gallon Amount: %s</string>
+</resources>
